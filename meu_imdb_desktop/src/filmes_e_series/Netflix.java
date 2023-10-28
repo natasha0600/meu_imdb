@@ -15,8 +15,4 @@ public class Netflix extends Streamings {
     Series serie3 = new Series ("Emily em Paris ", "451454", "Darren Star ", "Lily Colins, Philippine Leroy-Beaulieu, Ashley Park", "2022 ", Generos.COMEDIA, 3, 10, Categorias.MARATONAR );
 
 
-
-
-
-
 }
